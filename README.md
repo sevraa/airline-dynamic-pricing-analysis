@@ -33,6 +33,18 @@ time-to-departure and remaining seat inventory.
 The project will include data simulation, exploratory data analysis,
 visualizations, and mathematical modeling.
 
+## 📈 Example Result
+
+The figure below shows the relationship between time-to-departure and
+ticket price in the synthetic dataset.
+
+![Ticket Price vs Days to Departure](price_vs_departure.png)
+
+In this simulated example, ticket prices increase as the departure date
+approaches. This visualization is based on synthetic data and is intended
+to demonstrate the analysis workflow rather than represent real airline
+pricing behavior.
+
 ## 🚧 Status
 
 Currently under development.
