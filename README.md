@@ -36,3 +36,9 @@ visualizations, and mathematical modeling.
 ## 🚧 Status
 
 Currently under development.
+
+## 📝 Data Note
+
+The dataset used in this repository is synthetic and was created for
+educational and exploratory analysis purposes. It does not represent
+actual airline pricing data.
